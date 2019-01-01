@@ -2,8 +2,6 @@
 
 (function($) {
 
-	p
-
   	$.fn.typewriter = function(speed = 75) {
 
   		// ========= Functions
