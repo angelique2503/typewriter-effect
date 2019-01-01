@@ -1,2 +1,2 @@
 # typewriter-effect
-Plugin jQuery permettant d'afficher une phrase avec un effet de machine à écrire.
+Plugin jQuery permettant d'afficher une phrase avec l'effet d'une machine à écrire.
